@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Deedee and I'm currently Trainee Software Developer
+- 👀 I’m interested in producing more mini apps
+- 🌱 I’m currently learning React JS, HTML and CSS
+- 📫 How to reach me: Contact me via my email address demaradarkwah@mail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I read 100 books in 2024! 📚
