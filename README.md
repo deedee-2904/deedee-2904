@@ -4,3 +4,5 @@
 - 📫 How to reach me: Contact me via my [email address](mailto:demaradarkwah@mail.com)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I read 100 books in 2024! 📚
+- 🎧 Check out what I've been listening to!
+- [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/dark.svg?uid=000658.0b95c63fdcfd4fdaa8781dd4312b34b1.1942)](https://music-profile.rayriffy.com)
