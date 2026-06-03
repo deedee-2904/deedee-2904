@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deedee and I'm currently a Trainee Software Developer
+- 👋 Hi! I’m Deedee and I'm currently a Junior Software Developer
 - 👀 I’m interested in producing more mini apps
 - 🌱 I’m currently learning Expo Go and React Native
 - 📫 How to reach me: Contact me via my [email address](mailto:demaradarkwah@mail.com)
