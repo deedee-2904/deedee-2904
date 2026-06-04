@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A965D&height=300&section=header&text=Demara%20Darkwah&fontFamily=Courier%20New&fontSize=70&fontColor=F2F5EF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7A965D&height=250&section=header&text=Demara%20Darkwah&fontFamily=Courier%20New&fontSize=70&fontColor=F2F5EF"/>
 </p>
 
 <h2 align="center"> 💁🏾‍♀️ A Little Bit About Me and My Interests</h2>
