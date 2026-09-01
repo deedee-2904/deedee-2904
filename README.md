@@ -63,14 +63,6 @@ hobbies: ["Reading", "Gaming", "Baking", "Dancing"]
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-<h2 align = "center">
-  🎧 Now Playing...
-</h2>
-
-<p align ="center">
-  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000658.0b95c63fdcfd4fdaa8781dd4312b34b1.1942"/>
-</p>
-
 <h2  align="center">
   Check Out My Projects Down Below ⬇️
 </h2>
